@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/controllers/HospitalDashboardController.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/models/Appointment.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/models/Staff.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/appointments.csv</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/hospital_management_systemm/HOSPITAL_MANAGEMENT_SYSTEMM.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/controllers/NurseDashboardController.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/services/SessionManager.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/utils/CSVReader.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/controllers/PatientRegistrationController.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/services/DataService.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/clinicians.csv</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/staff.csv</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/models/Referral.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/controllers/AdminDashboardController.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/controllers/DoctorDashboardController.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/controllers/PatientDashboardController.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/models/Facility.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/models/Patient.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/models/Prescription.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/models/Clinician.java</file>
+            <file>file:/C:/Users/PC%2014/Documents/NetBeansProjects/HOSPITAL_MANAGEMENT_SYSTEMM/src/com/hospital/Main.java</file>
+        </group>
+    </open-files>
+</project-private>

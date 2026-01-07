@@ -1,0 +1,15 @@
+appointment_id,patient_id,clinician_id,facility_id,appointment_date,appointment_time,duration_minutes,appointment_type,status,reason_for_visit,notes,created_date,last_modified
+A001,P001,C001,,2025-09-20,09:00,30,Routine Consultation,Scheduled,Annual health check,,,
+A002,P002,C009,,2025-09-20,10:30,30,Vaccination,Scheduled,Flu vaccination,,,
+A003,P003,C003,,2025-09-21,14:00,30,Follow-up,Scheduled,Blood pressure check,,,
+A004,P004,C002,,2025-09-22,11:15,30,Urgent Consultation,Scheduled,Chest pain,,,
+A005,P005,C005,,2025-09-25,15:30,30,Specialist Consultation,Scheduled,Cardiology referral,,,
+A006,P006,C004,,2025-09-23,09:45,30,Routine Consultation,Scheduled,Prescription review,,,
+A007,P007,C001,,2025-09-24,16:00,30,Emergency,Cancelled,Sudden illness,,,
+A008,P008,C010,,2025-09-26,10:00,30,Health Check,Scheduled,Well woman screening,,,
+A009,P009,C007,,2025-09-27,13:00,30,Specialist Consultation,Scheduled,Orthopaedic assessment,,,
+A010,P010,C002,,2025-09-28,08:30,30,Follow-up,Scheduled,Diabetes review,,,
+A011,P001,C006,,2025-10-02,14:15,30,Specialist Consultation,Scheduled,Neurology referral,,,
+A012,P003,C012,,2025-10-05,11:00,30,Specialist Consultation,Scheduled,Gastroenterology,,,
+APT1767771393787,PAT011,C001,,2026-01-01,09:00,30,Consultation,Cancelled,fever,,,
+APT1767774013711,PAT012,C002,,2026-01-01,12:00,30,Follow-up,Scheduled,fever,,,2026-01-07

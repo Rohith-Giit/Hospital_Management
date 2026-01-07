@@ -1,0 +1,13 @@
+prescription_id,patient_id,clinician_id,appointment_id,prescription_date,medication_name,dosage,frequency,duration_days,quantity,instructions,pharmacy_name,status,issue_date,collection_date
+RX001,P001,C001,,30,,2025-09-20,Simvastatin,30,,,,,30,
+RX002,P002,C009,,30,,2025-09-20,Paracetamol,30,,,,,30,
+RX003,P003,C003,,30,,2025-09-21,Ramipril,30,,,,,30,
+RX004,P004,C002,,30,,2025-09-22,GTN Spray,30,,,,,30,
+RX005,P006,C004,,30,,2025-09-23,Metformin,30,,,,,30,
+RX006,P008,C010,,30,,2025-09-26,Folic Acid,30,,,,,30,
+RX007,P010,C002,,30,,2025-09-28,Insulin Glargine,30,,,,,30,
+RX008,P001,C001,,30,,2025-09-15,Ibuprofen,30,,,,,30,
+RX009,P003,C003,,30,,2025-08-20,Amlodipine,30,,,,,30,
+RX010,P005,C005,,30,,2025-09-25,Atorvastatin,30,,,,,30,
+PRE1767772446939,PAT011,C001,,30,,2026-01-07,p650,30,,,,,30,
+PRE1767774102582,PAT012,C002,,2026-01-07,p650,4.9,56,30,,,,,2026-01-07,

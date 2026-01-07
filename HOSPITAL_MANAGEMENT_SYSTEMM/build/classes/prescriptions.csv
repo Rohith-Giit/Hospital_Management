@@ -1,0 +1,12 @@
+prescription_id,patient_id,clinician_id,appointment_id,prescription_date,medication_name,dosage,frequency,duration_days,quantity,instructions,pharmacy_name,status,issue_date,collection_date
+RX001,P001,C001,,2025-09-20,Simvastatin,30mg,Once daily,30,,,,,2025-09-20,
+RX002,P002,C009,,2025-09-20,Paracetamol,500mg,Three times daily,30,,,,,2025-09-20,
+RX003,P003,C003,,2025-09-21,Ramipril,5mg,Once daily,30,,,,,2025-09-21,
+RX004,P004,C002,,2025-09-22,GTN Spray,0.5mg,As needed,30,,,,,2025-09-22,
+RX005,P006,C004,,2025-09-23,Metformin,500mg,Twice daily,30,,,,,2025-09-23,
+RX006,P008,C010,,2025-09-26,Folic Acid,5mg,Once daily,30,,,,,2025-09-26,
+RX007,P010,C002,,2025-09-28,Insulin Glargine,20 units,Once daily,30,,,,,2025-09-28,
+RX008,P001,C001,,2025-09-15,Ibuprofen,200mg,Three times daily,30,,,,,2025-09-15,
+RX009,P003,C003,,2025-08-20,Amlodipine,5mg,Once daily,30,,,,,2025-08-20,
+RX010,P005,C005,,2025-09-25,Atorvastatin,20mg,Once daily,30,,,,,2025-09-25,
+PRE1767772446939,PAT011,C001,,2026-01-07,p650,2.7,7,30,,,,,2026-01-07,

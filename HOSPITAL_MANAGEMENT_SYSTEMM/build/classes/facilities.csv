@@ -1,0 +1,7 @@
+facility_id,facility_name,facility_type,address,postcode,phone_number,email,opening_hours,manager_name,capacity,specialities_offered
+S001,Birmingham Central GP Surgery,GP Surgery,100 High Street, Birmingham,B1 1ZZ,0121-123-4567,contact@birminghamgp.nhs.uk,,,,1501
+S002,Solihull Family Practice,GP Surgery,250 Station Road, Solihull,B91 2AA,0121-234-5678,enquiries@solihullgp.nhs.uk,,,,1200
+S003,Sutton Coldfield Medical Centre,GP Surgery,75 Parade, Sutton Coldfield,B72 1PX,0121-345-6789,reception@suttongp.nhs.uk,,,,2000
+H001,Heartlands Hospital,Hospital,Bordesley Green East, Birmingham,B9 5SS,0121-424-2000,enquiries@heartlandshospital.nhs.uk,,,,800
+H002,Queen Elizabeth Hospital,Hospital,Mindelsohn Way, Birmingham,B15 2TH,0121-627-2000,contact@queenshospital.nhs.uk,,,,1200
+H003,Birmingham Children's Hospital,Hospital,Steelhouse Lane, Birmingham,B4 6NH,0121-333-9999,info@birminghamhospital.nhs.uk,,,,400
